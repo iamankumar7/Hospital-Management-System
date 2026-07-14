@@ -1,2 +1,2 @@
-# DEMO
+# Hospital-Management-System
 test
